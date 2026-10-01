@@ -1,0 +1,6 @@
+sku_id,name,type,unit_cost,holding_cost_pct,selling_price,target_service_level
+FG-101,EV Motor Assembly,Finished Good,45000,0.2,65000,0.98
+FG-102,Transmission Gearbox,Finished Good,32000,0.2,48000,0.95
+COMP-01,Stator Core,Component,8500,0.18,0,0.98
+COMP-02,Rotor Shaft,Component,6200,0.18,0,0.98
+COMP-03,Helical Gear,Component,4100,0.18,0,0.95

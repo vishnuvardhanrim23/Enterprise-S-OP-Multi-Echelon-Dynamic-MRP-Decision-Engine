@@ -1,0 +1,4 @@
+parent_sku,child_sku,qty_required
+FG-101,COMP-01,1
+FG-101,COMP-02,1
+FG-102,COMP-03,2
